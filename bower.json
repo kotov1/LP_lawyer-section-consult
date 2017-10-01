@@ -1,0 +1,21 @@
+{
+  "name": "sectionConsult",
+  "description": "coding 1 section",
+  "main": "gulpfile.js",
+  "authors": [
+    "PP"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kotov1/LP-lawyer---section-consult",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
